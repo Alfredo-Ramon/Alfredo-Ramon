@@ -1,4 +1,6 @@
-# ola
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=120&section=header"/>
+
+
 
 <div align="center">
   <a href="https://github.com/Alfredo-Ramon">
@@ -9,7 +11,7 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Alfredo" height="50" width="150" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
 </div>
   
   
@@ -26,3 +28,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
