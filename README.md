@@ -2,10 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A0522D&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bom+dia,+Boa+tarde,+Boa+noite☕;Seja+Bem+vindo+ao+meu+perfil😃;Tenho+19+anos;Estudo+e+pratico+Back-end)](https://git.io/typing-svg)
 
-<div align="center">
-  <a href="https://github.com/Alfredo-Ramon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Ramon&show_icons=true&theme=github_dark&include_all_commits=fa"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Ramon&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Alfredo-RAmon&show_icons=true&count_private=true&hide_border=true&title_color=8B4513&icon_color=ff91a4&text_color=c9d1d9&bg_color=A9A9A9" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
  <div style="display: inline_block"><br>
