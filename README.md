@@ -39,6 +39,6 @@
   <img align="center" alt="Alfredo-Ramon" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/1a/56/ea/1a56eaaaf78869d7c6e0e620b2b98394.gif">
 </div>
  
-  
+  i
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8B4513&height=120&section=footer"/>
