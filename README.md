@@ -31,7 +31,7 @@
    
  ### Estudando
   <img align="center" alt="Alfredo-Ramon" height="50" width="100" src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=l&logoColor=white"> 
-  <img align="center" alt="Alfredo-Ramon" height="50" width="115" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">  
+  <img align="center" alt="Alfredo-Ramon" height="50" width="120" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">  
   
    
    ###
