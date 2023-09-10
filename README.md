@@ -21,11 +21,19 @@
   <h3 align="center"> Sistemas Operacionais </h3>
 
   
-  <div align="center"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" > <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  </div> 
+  <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="100"/>  </div> 
  
   
   <h3 align="center"> Linguanges Back-End </h3>
-  <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" align="center" /> </div>
+  <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="100" /> </div>
+  
   <h3 align="center"> Banco de Dados </h3>
-  <h3 align="center"> Framework </h3>
+  <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="150" />   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="150"/>  </div>
+  
+         
+          
+  
 <h1 align="center" font> Estudos Atuais</h1>
+  <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="150" /> </div>
+      
+          
