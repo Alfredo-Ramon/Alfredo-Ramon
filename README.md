@@ -2,7 +2,6 @@
 
 <h1 align="center" font> Map </h1>
 
-* **[Rede Sociais](#-rede-sociais)**
 * **[Conhecimento Sobre](#-conhecimento-sobre)**
   * **[Sistemas Operacionais](#-sistemas-operacionais-)**
   * **[Linguanges Back-End](#-linguanges-back-end-)**
@@ -15,7 +14,6 @@
 
 
 
-<h1 align="center" > Rede Sociais</h1>
 <h1 align="center" > Conhecimento Sobre</h1>
   <h3 align="center"> Sistemas Operacionais </h3>
   <h3 align="center"> Linguanges Back-End </h3>
