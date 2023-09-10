@@ -2,8 +2,7 @@
 
 <h1 align="center" font> Maps </h1>
 
-<!--ts-->
-[Rede Sociais](#Rede Sociais)
+* [Rede Sociais](#Rede-Sociais)
 * **Conhecimento Sobre**
   * **Sistemas Operacionais**
   * **Linguanges Back-End**
@@ -11,7 +10,7 @@
   * **Banco de Dados**
   * **Framework**
 * **Estudos Atuais**
-<!--te-->
+
 
 
 
