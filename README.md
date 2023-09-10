@@ -2,7 +2,6 @@
 
 <h1 align="center" font> Maps </h1>
 
-   ./gh-md-toc https://github.com/Alfredo-Ramon/Alfredo-Ramon/main/README.md
 <!--ts-->
 [Rede Sociais](#Rede Sociais)
 * **Conhecimento Sobre**
