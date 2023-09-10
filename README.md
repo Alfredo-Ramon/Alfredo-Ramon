@@ -1,15 +1,15 @@
 <img  src="Fotos/gif/BemVindo.gif">
 
-<h1 align="center" font> Maps </h1>
+<h1 align="center" font> Map </h1>
 
 * **[Rede Sociais](#-rede-sociais)**
 * **[Conhecimento Sobre](#-conhecimento-sobre)**
-  * **Sistemas Operacionais**
-  * **Linguanges Back-End**
-  * **Linguanges Front-End**
-  * **Banco de Dados**
-  * **Framework**
-* **[Estudos Atuais](#Estudos-Atuais)**
+  * **[Sistemas Operacionais](#-sistemas-operacionais)**
+  * **[Linguanges Back-End](#-linguanges-back-end)**
+  * **[Linguanges Front-End](#-linguanges-front-end)**
+  * **[Banco de Dados](#-banco-de-dados)**
+  * **[Framework](#-frameworks)**
+* **[Estudos Atuais](#estudos-atuais)**
 
 
 
