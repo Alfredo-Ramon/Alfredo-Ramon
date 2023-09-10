@@ -22,6 +22,8 @@
 
   
   <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="100" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" height="100"/>  </div> 
+
+
  
   
   <h3 align="center"> Linguanges Back-End </h3>
@@ -37,3 +39,4 @@
   <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="150" /> </div>
       
           
+
