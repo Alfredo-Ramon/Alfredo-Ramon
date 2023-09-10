@@ -4,12 +4,12 @@
 
 * **[Rede Sociais](#-rede-sociais)**
 * **[Conhecimento Sobre](#-conhecimento-sobre)**
-  * **[Sistemas Operacionais](#-sistemas-operacionais)**
-  * **[Linguanges Back-End](#-linguanges-back-end)**
-  * **[Linguanges Front-End](#-linguanges-front-end)**
-  * **[Banco de Dados](#-banco-de-dados)**
-  * **[Framework](#-frameworks)**
-* **[Estudos Atuais](#estudos-atuais)**
+  * **[Sistemas Operacionais](#-sistemas-operacionais-)**
+  * **[Linguanges Back-End](#-linguanges-back-end-)**
+  * **[Linguanges Front-End](#-linguanges-front-end-)**
+  * **[Banco de Dados](#-banco-de-dados-)**
+  * **[Framework](#-frameworks-)**
+* **[Estudos Atuais](#-estudos-atuais)**
 
 
 
