@@ -8,7 +8,7 @@
   * **[Linguanges Back-End](#-linguanges-back-end-)**
   * **[Linguanges Front-End](#-linguanges-front-end-)**
   * **[Banco de Dados](#-banco-de-dados-)**
-  * **[Framework](#-frameworks-)**
+  * **[Framework](#-framework-)**
 * **[Estudos Atuais](#-estudos-atuais)**
 
 
@@ -17,7 +17,7 @@
 
 <h1 align="center" > Rede Sociais</h1>
 <h1 align="center" > Conhecimento Sobre</h1>
-  <h3 align="center"> Sistemas Operacionias </h3>
+  <h3 align="center"> Sistemas Operacionais </h3>
   <h3 align="center"> Linguanges Back-End </h3>
   <h3 align="center"> Linguanges Front-End </h3>
   <h3 align="center"> Banco de Dados </h3>
