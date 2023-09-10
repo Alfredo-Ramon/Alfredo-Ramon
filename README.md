@@ -3,8 +3,7 @@
 <h1 align="center" font> Maps </h1>
 
 * **[Rede Sociais](#-rede-sociais)**
-* 
-* **Conhecimento Sobre**
+* **[Conhecimento Sobre](#-conhecimneto-sobre)**
   * **Sistemas Operacionais**
   * **Linguanges Back-End**
   * **Linguanges Front-End**
