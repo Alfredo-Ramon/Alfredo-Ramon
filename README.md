@@ -1,10 +1,10 @@
 <img  src="Fotos/gif/BemVindo.gif">
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Ramon&show_icons=true&theme=dark" height="100">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Ramon&show_icons=true&theme=dark" height="150">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Ramon&layout=compact&theme=dark" height="100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfredo-Ramon&layout=compact&theme=dark" height="150" />
 </a>
 </div>
 
