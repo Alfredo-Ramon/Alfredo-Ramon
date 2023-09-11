@@ -48,7 +48,6 @@
   
 <h1 align="center" font> Estudos Atuais</h1>
   <div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="100" /> </div>    
-   <div align="right"> <img  src="Fotos/gif/Teclado.gif" height="150"></div>
 
 
 <img  src="Fotos/gif/fim.gif">
