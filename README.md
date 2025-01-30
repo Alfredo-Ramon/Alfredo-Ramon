@@ -1,4 +1,4 @@
-<img  src="Fotos/gif/BemVindo.gif">
+<img  src="Fotos/gif/BemVindoFinalizado.png">
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfredo-Ramon&show_icons=true&theme=dark" height="150">
